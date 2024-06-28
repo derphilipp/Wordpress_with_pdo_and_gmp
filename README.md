@@ -1,1 +1,1 @@
-# Wordpress_with_pdo_and_gmp
+# Wordpress with pdo and gmp
