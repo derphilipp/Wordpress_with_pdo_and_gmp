@@ -6,5 +6,4 @@ RUN apt-get update \
   && docker-php-ext-enable  pdo pdo_mysql gmp \
   && rm -rf /var/lib/apt/lists/*
 
-
 EXPOSE 80
